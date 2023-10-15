@@ -15,10 +15,6 @@ Welcome to my coding realm, where I'm not just a Backend Engineer – I'm your t
 
 Java, Spring Boot, Design Patterns, PostgreSQL, Docker
 
-## 🚀 Unveiling My Magnum Opus: Project
-
-**OTT Simultaneous Viewing Limit System**
-Crafted a scalable OTT simultaneous viewing limit system with Kafka, Spring Boot, and Redis – ensuring cinephile sorcery at its best! 🎥🍿
 
 ## 🏆 Victories That Sparkle
 
