@@ -1,6 +1,6 @@
 # Hello, I'm Rajiv! 👋
 
-Welcome to my coding realm, where I'm not just a Backend Engineer – I'm your tech sorcerer 🧙‍♂️, crafting optimized architectures and scaling spells! Proficient in Java, Spring Boot, and PostgreSQL, I'm on a mission to create systems that perform like magic. ✨🔮
+Welcome to my coding realm, I'm a Backend Engineer proficient in Java, Spring Boot, and PostgreSQL ✨🔮
 
 ## 💼 Experience at a Glance
 
